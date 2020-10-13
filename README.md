@@ -1,5 +1,12 @@
 # Typesense PHP Client
 
+<h3>⚠️ This project has moved to the official Typesense Github org: https://github.com/typesense/typesense-php.
+It was adopted as the official Typesense PHP client on Oct 12, 2020 and ongoing development will take place there.</h3>
+<h4>Please upgrade to the `typesense/typesense-php` composer package to receive new updates.</h4>
+
+<h4>The rest of this Readme file is kept as is for posterity.</h4>
+
+
 PHP client for the Typesense API: https://github.com/typesense/typesense
 
 Follows the Typesense [API specification](https://github.com/typesense/typesense-api-spec).
